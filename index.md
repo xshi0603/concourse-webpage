@@ -1,17 +1,7 @@
 ## West Concourse
 
 ### Highlighted map
-
-Inline-style: 
-![alt text](https://github.com/xshi0603/concourse-webpage/blob/gh-pages/HC6_image.png "Concourse Image")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/xshi0603/concourse-webpage/blob/gh-pages/HC6_image.png "Logo Title Text 2"
-
-
-![My helpful screenshot](/HC6_image.png)
+![Concourse Image](/HC6_image.png)
 
 ### Demographics & statistics:
 - Median Age: 32.3 years
@@ -22,7 +12,6 @@ Reference-style:
 - Poverty Levels: 36.51%
 - Marital Status - Married: 33.83%
 
-
 ### Observations
 Within the borough of Bronx, each of our neighborhoods remained fairly consistent with average Niche rankings hovering around C. Based on our personal ranking priorities for outdoor dining however, our neighborhoods fared better. Since NYC remains a hotspot metropolitan sprawl regardless of the borough, nightlife and diversity were praised across the board (A+ to B+), with a large variety of locations open at virtually every hour of the day. Additionally, the Bronx was rated incredibly highly in terms of walkability and access to transportation; our neighborhoods combined the convenience of bus services, subway services, and residential walkways making them an ideal candidate for anyone looking to stop by. Although crime rates are not perfect, the Bronx has improved its safety measures exponentially over the past decade. Many of our neighborhoods, such as Belmont, have been praised for their tight-knit community and have reported a crime rate drop of 66% between 1993 and 2010. With these factors in mind, neighborhoods and their restaurants within the Bronx seem to be strong contenders in the world of outdoor dining.
 
@@ -32,3 +21,6 @@ Within the borough of Bronx, each of our neighborhoods remained fairly consisten
 - The difference between the areas of sidewalk and roadway seating is a significant one. The Bronx has more than double the average area in sidewalk seating than roadway seating. This is why restaurants found sidewalk seating individually as the priority for its approval, and why roadway seating is seen as secondary. Whilst the rates of approval for both sidewalk seating and roadway seating is still high, for restaurants that picked only of these two choices, they simply chose to go with sidewalk seating. It can be seen that the sidewalk seating is much more beneficial for these businesses, as that area for dining is much more spacious and accommodates enough for the customer’s satisfaction.
 
 ### Map
+<dl>
+<iframe src="concourse.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</dl>

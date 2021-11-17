@@ -10,6 +10,9 @@ Reference-style:
 
 [logo]: https://github.com/xshi0603/concourse-webpage/blob/gh-pages/HC6_image.png "Logo Title Text 2"
 
+
+![My helpful screenshot](/HC6_image.png)
+
 ### Demographics & statistics:
 - Median Age: 32.3 years
 - Percentage Male: 46.88%

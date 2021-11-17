@@ -2,12 +2,12 @@
 
 #Highlighted map
 Inline-style: 
-![alt text](https://github.com/xshi0603/concourse-webpage/blob/main/HC6_image.png "Concourse Image")
+![alt text](https://github.com/xshi0603/concourse-webpage/blob/gh-pages/HC6_image.png "Concourse Image")
 
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/xshi0603/concourse-webpage/blob/main/HC6_image.png "Logo Title Text 2"
+[logo]: https://github.com/xshi0603/concourse-webpage/blob/gh-pages/HC6_image.png "Logo Title Text 2"
 
 #Demographics & statistics:
 

@@ -20,8 +20,9 @@ Reference-style:
 - Marital Status - Married: 33.83%
 
 
-### one paragraph summarizing your observations from HC3
+### Observations
+Within the borough of Bronx, each of our neighborhoods remained fairly consistent with average Niche rankings hovering around C. Based on our personal ranking priorities for outdoor dining however, our neighborhoods fared better. Since NYC remains a hotspot metropolitan sprawl regardless of the borough, nightlife and diversity were praised across the board (A+ to B+), with a large variety of locations open at virtually every hour of the day. Additionally, the Bronx was rated incredibly highly in terms of walkability and access to transportation; our neighborhoods combined the convenience of bus services, subway services, and residential walkways making them an ideal candidate for anyone looking to stop by. Although crime rates are not perfect, the Bronx has improved its safety measures exponentially over the past decade. Many of our neighborhoods, such as Belmont, have been praised for their tight-knit community and have reported a crime rate drop of 66% between 1993 and 2010. With these factors in mind, neighborhoods and their restaurants within the Bronx seem to be strong contenders in the world of outdoor dining.
 
-### a summary of your results from HC7 and HC8 along with plot images, and
+### Summary of results from HC7 and HC8 along with plot images, and
 
-### the map from HC9 (embedded as iframe -- see below)
+### Map

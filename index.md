@@ -16,7 +16,7 @@ Markdown | Less | Pretty
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
---- | 10451 | 10452 | 10456 | Average
+null | 10451 | 10452 | 10456 | Average
 Median Age | --- | --- | --- | ---
 Median Age | --- | --- | --- | ---
 Median Age | --- | --- | --- | ---

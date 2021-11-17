@@ -1,8 +1,13 @@
 ## West Concourse
 
-the highlighted map from HC6 as an image
+
 Inline-style: 
 ![alt text](https://github.com/xshi0603/concourse-webpage/blob/main/HC6_image.png "Concourse Image")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/xshi0603/concourse-webpage/blob/main/HC6_image.png "Logo Title Text 2"
 
 the basic demographics & statistics from HC 2
 

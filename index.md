@@ -11,17 +11,11 @@ Reference-style:
 
 the basic demographics & statistics from HC 2
 
-Markdown | Less | Pretty | A
---- | --- | --- | A
-*Still* | `renders` | **nicely** | A
-1 | 2 | 3 | A
-
-null | 10451 | 10452 | 10456 | Average
-Median Age | --- | --- | --- | ---
-Median Age | --- | --- | --- | ---
-Median Age | --- | --- | --- | ---
-Median Age | --- | --- | --- | ---
-Median Age | --- | --- | --- | ---
+| Tables        | 10451           | 10452  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 one paragraph summarizing your observations from HC3
 

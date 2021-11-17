@@ -20,6 +20,10 @@ Within the borough of Bronx, each of our neighborhoods remained fairly consisten
 - The borough’s abundance of sidewalk area has afforded it so that a majority of Bronx restaurants are able to keep both the sidewalk and roadway area open for their customers’ dining convenience. 
 - The difference between the areas of sidewalk and roadway seating is a significant one. The Bronx has more than double the average area in sidewalk seating than roadway seating. This is why restaurants found sidewalk seating individually as the priority for its approval, and why roadway seating is seen as secondary. Whilst the rates of approval for both sidewalk seating and roadway seating is still high, for restaurants that picked only of these two choices, they simply chose to go with sidewalk seating. It can be seen that the sidewalk seating is much more beneficial for these businesses, as that area for dining is much more spacious and accommodates enough for the customer’s satisfaction.
 
+![Graph1](/Graph1.png)
+![Graph2](/Graph2.png)
+![Graph3](/Graph3.png)
+
 ### Map
 <dl>
 <iframe src="concourse.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>

@@ -11,6 +11,13 @@ Reference-style:
 
 the basic demographics & statistics from HC 2
 
+--- | 10451 | 10452 | 10456 | Average
+Median Age | --- | --- | --- | ---
+Median Age | --- | --- | --- | ---
+Median Age | --- | --- | --- | ---
+Median Age | --- | --- | --- | ---
+Median Age | --- | --- | --- | ---
+
 one paragraph summarizing your observations from HC3
 
 a summary of your results from HC7 and HC8 along with plot images, and
